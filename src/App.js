@@ -1,12 +1,10 @@
 import Header from "./components/Header";
-
+//changers were made
 function App() {
   return (
     <div className="container">
-
       <Header />
     </div>
-
   );
 }
 
